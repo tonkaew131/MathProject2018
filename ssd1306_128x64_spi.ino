@@ -54,6 +54,7 @@ double heightpow;
 double height;
 int Base; 
 int Slant;
+int test;
 
 void setup()   {     
   pinMode(trigPin1, OUTPUT);
